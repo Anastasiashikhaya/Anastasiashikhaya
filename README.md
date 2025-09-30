@@ -9,6 +9,7 @@
 
 ## 💡 About Me
 - 🎓 Pursuing Software Engineering at **Moringa School**
+- 📚 currently working on End of phase project about **Delivery App** and learning about react-native and how it facillitate the interaction with blockchain
 - 🛠️ Building a **School Portal** system
 - 🌱 Mastering **Django & Node.js**
 - ♟️ Chess enthusiast & problem solver
