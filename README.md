@@ -12,7 +12,7 @@
 ## 💡 About Me
 Passionate **Software Engineer** with hands-on experience building scalable **web and mobile applications** using **React, Django, Node.js**, and RESTful APIs. I enjoy solving complex problems, designing clean architectures, and building systems that are reliable, secure, and performant.
 
-I’m particularly interested in **AI-driven applications**, **system design**, and **modern full-stack development**, and I enjoy continuously learning new technologies and improving my craft.
+I have a strong foundation in **computer science fundamentals**, including **C and C++**, and a growing interest in **AI-driven solutions**, **system design**, and modern full-stack development.
 
 🔗 **Portfolio:** https://anastasia-portfolio.onrender.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/anastasia-shikhaya-744457370/
@@ -33,7 +33,7 @@ I’m particularly interested in **AI-driven applications**, **system design**, 
 
 ---
 
-## 🧩 What I Work With (Quick Breakdown)
+## 🧩 What I Work With
 
 - **Frontend:** React, Next.js, Tailwind CSS, responsive & accessible UI
 - **Backend:** Node.js, Express, Django, Django REST Framework
@@ -46,22 +46,19 @@ I’m particularly interested in **AI-driven applications**, **system design**, 
 ---
 
 ## 🤖 Currently Exploring
-- AI-powered applications & LLM-based solutions  
+- AI-powered applications & LLM-based systems  
 - System design & scalability patterns  
 - Blockchain interaction in frontend & mobile apps  
 
 ---
 
-## 📊 GitHub Insights (Auto-updating)
+## 📊 GitHub Activity
+- Actively building and maintaining full-stack projects
+- Experience across frontend, backend, APIs, and deployment
+- Consistent use of GitHub for version control, collaboration, and CI/CD
+- Projects reflect real-world problem solving and system design
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anastasiashikhaya&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anastasiashikhaya&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiashikhaya&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+> 🔍 Detailed contribution graphs and language usage are available natively on my GitHub profile.
 
 ---
 
