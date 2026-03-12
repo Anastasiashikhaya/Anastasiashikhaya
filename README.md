@@ -62,6 +62,14 @@ I have a strong foundation in **computer science fundamentals**, including **C a
 
 ---
 
+## 🤖 Currently Building AI chatBot and Exploring AI
+- AI-powered applications & LLM-based systems  
+- System design & scalability patterns  
+- Blockchain interaction in frontend & mobile apps  
+- Currently building an AI chatbot from scratch using my own models and training them with custom datasets
+
+---
+
 ## 🌍 Connect With Me
 <p align="center">
   <a href="mailto:anastasiashikhaya@gmail.com">
@@ -75,8 +83,4 @@ I have a strong foundation in **computer science fundamentals**, including **C a
   </a>
 </p>
 
-## 🤖 Currently Building AI chatBot and Exploring AI
-- AI-powered applications & LLM-based systems  
-- System design & scalability patterns  
-- Blockchain interaction in frontend & mobile apps  
-- Currently building an AI chatbot from scratch using my own models and training them with custom datasets
+
